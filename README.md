@@ -2,6 +2,10 @@
 
 This template is based on work from Zurb.  You can see it here:
 
+* http://zurb.com/ink/templates.php
+
+Zurb also has a second set of templates.  I'm sharing that template set link specifically because of some of the notes they have regarding the use of the templates (which I believe also apply to the Ink template set).
+
 * http://zurb.com/playground/responsive-email-templates
 
 Of particular note is the section regarding bringing CSS inline:
